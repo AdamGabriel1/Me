@@ -3,35 +3,37 @@ layout: home
 title: Início
 ---
 
-# Olá, eu sou o [Teu Nome] 👋
+# Olá, eu sou o Adam Gabriel 👋
 
-Bem-vindo ao meu repositório pessoal. Este espaço funciona como o meu portfólio vivo, onde documento a minha jornada, projetos e aprendizagens na área de [Tua Área - ex: Engenharia de Software].
+Bem-vindo ao meu repositório pessoal. Este espaço funciona como o meu portfólio vivo, onde documento a minha jornada como **Desenvolvedor Full Stack**, entusiasta de **Linux** e estudante de **Cybersecurity**.
+
+🚀 *Apaixonado por tecnologia e em busca constante de desafios para evolução profissional.*
 
 ## 🧭 Navegação Rápida
 
-Escolha uma das secções abaixo para me conhecer melhor:
-
-* **[👤 Sobre Mim](./about/)** – A minha história, interesses e o que me motiva.
-* **[📄 Currículo](./resume/)** – Experiência profissional, formação e competências técnicas.
-* **[🚀 Projetos](./projects/)** – Portfólio de aplicações, automações e estudos de caso.
-* **[🎓 Certificações](./certifications/)** – Diplomas, cursos e validações técnicas.
-* **[✍️ Blog](./blog/)** – Artigos, tutoriais e reflexões sobre tecnologia.
+* **[👤 Sobre Mim](./about/)** – Minha história, paixão por Linux e objetivos.
+* **[📄 Currículo](./resume/)** – Formação acadêmica e stack técnica detalhada.
+* **[🚀 Projetos](./projects/)** – Portfólio de aplicações Web, Web3 e estudos em C#.
+* **[🎓 Certificações](./certifications/)** – Cybersecurity Specialist, TypeScript Fullstack e mais.
+* **[✍️ Blog](./blog/)** – Artigos e reflexões sobre tecnologia e segurança.
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Tecnológica & Interesses
 
-Aqui estão algumas das tecnologias com que trabalho diariamente:
+Linguagens e ferramentas que utilizo para transformar ideias em código:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
 ## 📫 Vamos Conversar?
 
-Sente-te à vontade para explorar os repositórios ou entrar em contacto:
+Estou aberto a oportunidades e parcerias para contribuir com projetos inovadores!
 
-[LinkedIn](https://linkedin.com/in/teu-perfil) | [E-mail](mailto:teu-email@exemplo.com) | [Site Pessoal](https://teusite.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-gabriel-b9479b2a6/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamgabriel289@gmail.com)

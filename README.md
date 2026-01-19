@@ -1,41 +1,38 @@
-# Me
+# Me | Adam Gabriel 🚀
 
-Bem-vindo ao meu repositório pessoal — "Me".  
-Repositório sobre eu mesmo: aqui documento minhas conquistas, certificações, projetos e informações de contato.
-
----
-
-## Sobre mim
-Olá! Meu nome é Adam (ou descreva seu nome completo aqui). Sou [sua ocupação/estudos — ex.: desenvolvedor, estudante, engenheiro de software] interessado em [tecnologias/temas principais — ex.: backend, web, dados, IA]. Neste repositório reúno um resumo do meu trabalho, certificações e outros materiais.
-
-## Habilidades / Tecnologias
-- Linguagens: JavaScript/TypeScript, Python, etc.
-- Frameworks / Ferramentas: Node.js, React, Git, Docker
-- Outras: DevOps, testes automatizados, CI/CD
-
-> Adicione ou ajuste conforme suas habilidades reais.
-
-## Projetos
-Veja a pasta `projects/` (a criar) para projetos com descrições, links e status. Exemplos:
-- projeto-1 — breve descrição
-- projeto-2 — breve descrição
-
-## Certificações
-Certificações estão na pasta `Certifications/`. Cada item contém comprovante ou link quando aplicável.
-
-## Como me contatar
-- Email: seu.email@exemplo.com
-- LinkedIn: https://www.linkedin.com/in/seu-perfil
-- Twitter/GitHub: @AdamGabriel1
+Repositório central para documentação de conquistas, projetos e evolução profissional. Este projeto também alimenta meu portfólio via GitHub Pages.
 
 ---
 
-## Quick English summary
-This is my personal repository ("Me") with projects, certifications and contact info. See the folders and files for details.
+## 👤 Sobre Mim
+Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas e seguras. Entusiasta do ecossistema **Linux**, busco integrar conceitos de **DevOps** e **Segurança da Informação** em tudo o que desenvolvo. Atualmente, foco meus estudos em **Web3** e **Inteligência Artificial**.
 
-Badges (opcionais): você pode inserir badges do shields.io no topo, por exemplo:
-- Build / Actions
-- Languages
-- License
+## 💻 Habilidades Técnicas
+- **Linguagens:** C#, TypeScript, JavaScript.
+- **Ecossistema:** Node.js, Frameworks Modernos, Conceitos de Segurança (Cybersecurity).
+- **Infra & Ferramentas:** Linux, Git, Docker, Azure AI Fundamentals.
 
-Obrigado por visitar — sinta-se à vontade para abrir issues ou enviar PRs!
+## 📂 Organização do Repositório
+- [/about](./about/): Bio detalhada e interesses pessoais.
+- [/resume](./resume/): Currículo técnico e formação acadêmica.
+- [/projects](./projects/): Repositórios de destaque e estudos de caso.
+- [/certifications](./certifications/): Portfólio de certificados (Cybersecurity, Web3, Azure).
+- [/blog](./blog/): Notas de estudo e artigos técnicos.
+
+## 🎓 Destaques de Formação
+- **Cybersecurity Specialist**
+- **TypeScript Fullstack Developer**
+- **Microsoft Azure AI Fundamentals**
+- **Web3 Fundamentals**
+
+## 📫 Contato
+- **LinkedIn:** [Adam Gabriel](https://www.linkedin.com/in/adam-gabriel-b9479b2a6/)
+- **Email:** adamgabriel289@gmail.com
+
+---
+
+## 🌎 Quick English Summary
+Personal repository to showcase my journey as a Full Stack Developer. Passionate about Linux, Security, and Web3. Here you will find my portfolio, technical skills, and certifications. Feel free to explore the folders!
+
+---
+*“Comprometido, proativo e apaixonado por tecnologia.”*
