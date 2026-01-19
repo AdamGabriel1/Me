@@ -13,11 +13,11 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas e segura
 - **Infra & Ferramentas:** Linux, Git, Docker, Azure AI Fundamentals.
 
 ## 📂 Organização do Repositório
-- [/about](./about/): Bio detalhada e interesses pessoais.
-- [/resume](./resume/): Currículo técnico e formação acadêmica.
-- [/projects](./projects/): Repositórios de destaque e estudos de caso.
-- [/certifications](./certifications/): Portfólio de certificados (Cybersecurity, Web3, Azure).
-- [/blog](./blog/): Notas de estudo e artigos técnicos.
+- [/About](./About/): Bio detalhada e interesses pessoais.
+- [/Resume](./Resume/): Currículo técnico e formação acadêmica.
+- [/Projects](./Projects/): Repositórios de destaque e estudos de caso.
+- [/Certifications](./Certifications/): Portfólio de certificados (Cybersecurity, Web3, Azure).
+- [/Blog](./Blog/): Notas de estudo e artigos técnicos.
 
 ## 🎓 Destaques de Formação
 - **Cybersecurity Specialist**
