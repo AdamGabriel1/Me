@@ -11,11 +11,11 @@ Bem-vindo ao meu repositório pessoal. Este espaço funciona como o meu portfól
 
 ## 🧭 Navegação Rápida
 
-* **[👤 Sobre Mim](./about/)** – Minha história, paixão por Linux e objetivos.
-* **[📄 Currículo](./resume/)** – Formação acadêmica e stack técnica detalhada.
-* **[🚀 Projetos](./projects/)** – Portfólio de aplicações Web, Web3 e estudos em C#.
-* **[🎓 Certificações](./certifications/)** – Cybersecurity Specialist, TypeScript Fullstack e mais.
-* **[✍️ Blog](./blog/)** – Artigos e reflexões sobre tecnologia e segurança.
+* **[👤 Sobre Mim](./About/)** – Minha história, paixão por Linux e objetivos.
+* **[📄 Currículo](./Resume/)** – Formação acadêmica e stack técnica detalhada.
+* **[🚀 Projetos](./Projects/)** – Portfólio de aplicações Web, Web3 e estudos em C#.
+* **[🎓 Certificações](./Certifications/)** – Cybersecurity Specialist, TypeScript Fullstack e mais.
+* **[✍️ Blog](./Blog/)** – Artigos e reflexões sobre tecnologia e segurança.
 
 ---
 
